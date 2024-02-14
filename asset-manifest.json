@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.7c070ded.css",
-    "main.js": "/travel/static/js/main.bd490f72.js",
-    "static/js/592.d6076b84.chunk.js": "/travel/static/js/592.d6076b84.chunk.js",
-    "static/media/programming.png": "/travel/static/media/programming.184a04dd93f9d5e33009.png",
-    "static/media/man.jpg": "/travel/static/media/man.f33746dfc2cbc3a574ee.jpg",
-    "static/media/wave.png": "/travel/static/media/wave.203cbe030d7676fcfc4a.png",
-    "index.html": "/travel/index.html",
-    "main.7c070ded.css.map": "/travel/static/css/main.7c070ded.css.map",
-    "main.bd490f72.js.map": "/travel/static/js/main.bd490f72.js.map",
-    "592.d6076b84.chunk.js.map": "/travel/static/js/592.d6076b84.chunk.js.map"
+    "main.css": "/worldpro/static/css/main.ef2e0355.css",
+    "main.js": "/worldpro/static/js/main.035bcea7.js",
+    "static/js/592.d6076b84.chunk.js": "/worldpro/static/js/592.d6076b84.chunk.js",
+    "static/media/programming.png": "/worldpro/static/media/programming.184a04dd93f9d5e33009.png",
+    "static/media/error.png": "/worldpro/static/media/error.75d31432b053ee121bd5.png",
+    "static/media/man.jpg": "/worldpro/static/media/man.f33746dfc2cbc3a574ee.jpg",
+    "static/media/wave.png": "/worldpro/static/media/wave.203cbe030d7676fcfc4a.png",
+    "index.html": "/worldpro/index.html",
+    "main.ef2e0355.css.map": "/worldpro/static/css/main.ef2e0355.css.map",
+    "main.035bcea7.js.map": "/worldpro/static/js/main.035bcea7.js.map",
+    "592.d6076b84.chunk.js.map": "/worldpro/static/js/592.d6076b84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c070ded.css",
-    "static/js/main.bd490f72.js"
+    "static/css/main.ef2e0355.css",
+    "static/js/main.035bcea7.js"
   ]
 }
